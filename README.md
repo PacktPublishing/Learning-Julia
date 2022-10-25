@@ -25,3 +25,7 @@ Detailed steps are given at the relevant instances in the book.
 
 * [Julia Cookbook](https://www.packtpub.com/application-development/julia-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785882012)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785883279">https://packt.link/free-ebook/9781785883279 </a> </p>
